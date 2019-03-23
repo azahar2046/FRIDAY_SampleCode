@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="9" total="18" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="205" started-at="2019-03-11T08:46:43Z" finished-at="2019-03-11T08:46:44Z">
+    <groups>
+    </groups>
+    <test name="SampleCode" duration-ms="205" started-at="2019-03-11T08:46:43Z" finished-at="2019-03-11T08:46:44Z">
+      <class name="com.friday.qa.automat.TypicalTestCases">
+        <test-method status="PASS" signature="solveConvertAddress_10Success(java.lang.String)[pri:0, instance:com.friday.qa.automat.TypicalTestCases@13c0b17]" name="solveConvertAddress_10Success" duration-ms="73" started-at="2019-03-11T08:46:43Z" data-provider="dataprovider" finished-at="2019-03-11T08:46:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Winterallee 3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solveConvertAddress_10Success -->
+        <test-method status="PASS" signature="solveConvertAddress_10Success(java.lang.String)[pri:0, instance:com.friday.qa.automat.TypicalTestCases@13c0b17]" name="solveConvertAddress_10Success" duration-ms="2" started-at="2019-03-11T08:46:43Z" data-provider="dataprovider" finished-at="2019-03-11T08:46:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Musterstrasse 45]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solveConvertAddress_10Success -->
+        <test-method status="PASS" signature="solveConvertAddress_10Success(java.lang.String)[pri:0, instance:com.friday.qa.automat.TypicalTestCases@13c0b17]" name="solveConvertAddress_10Success" duration-ms="6" started-at="2019-03-11T08:46:43Z" data-provider="dataprovider" finished-at="2019-03-11T08:46:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blaufeldweg 123B]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solveConvertAddress_10Success -->
+        <test-method status="PASS" signature="solveConvertAddress_10Success(java.lang.String)[pri:0, instance:com.friday.qa.automat.TypicalTestCases@13c0b17]" name="solveConvertAddress_10Success" duration-ms="1" started-at="2019-03-11T08:46:44Z" data-provider="dataprovider" finished-at="2019-03-11T08:46:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Am Bächle 23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solveConvertAddress_10Success -->
+        <test-method status="PASS" signature="solveConvertAddress_10Success(java.lang.String)[pri:0, instance:com.friday.qa.automat.TypicalTestCases@13c0b17]" name="solveConvertAddress_10Success" duration-ms="9" started-at="2019-03-11T08:46:44Z" data-provider="dataprovider" finished-at="2019-03-11T08:46:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Auf der Vogelwiese 23 b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solveConvertAddress_10Success -->
+        <test-method status="PASS" signature="solveConvertAddress_10Success(java.lang.String)[pri:0, instance:com.friday.qa.automat.TypicalTestCases@13c0b17]" name="solveConvertAddress_10Success" duration-ms="1" started-at="2019-03-11T08:46:44Z" data-provider="dataprovider" finished-at="2019-03-11T08:46:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4, rue de la revolution]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solveConvertAddress_10Success -->
+        <test-method status="PASS" signature="solveConvertAddress_10Success(java.lang.String)[pri:0, instance:com.friday.qa.automat.TypicalTestCases@13c0b17]" name="solveConvertAddress_10Success" duration-ms="1" started-at="2019-03-11T08:46:44Z" data-provider="dataprovider" finished-at="2019-03-11T08:46:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Calle Aduana, 29]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solveConvertAddress_10Success -->
+        <test-method status="PASS" signature="solveConvertAddress_10Success(java.lang.String)[pri:0, instance:com.friday.qa.automat.TypicalTestCases@13c0b17]" name="solveConvertAddress_10Success" duration-ms="4" started-at="2019-03-11T08:46:44Z" data-provider="dataprovider" finished-at="2019-03-11T08:46:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[200 Broadway Av]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solveConvertAddress_10Success -->
+        <test-method status="PASS" signature="solveConvertAddress_10Success(java.lang.String)[pri:0, instance:com.friday.qa.automat.TypicalTestCases@13c0b17]" name="solveConvertAddress_10Success" duration-ms="1" started-at="2019-03-11T08:46:44Z" data-provider="dataprovider" finished-at="2019-03-11T08:46:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Calle 39 No 1540]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solveConvertAddress_10Success -->
+      </class> <!-- com.friday.qa.automat.TypicalTestCases -->
+    </test> <!-- SampleCode -->
+  </suite> <!-- Default Suite -->
+</testng-results>
